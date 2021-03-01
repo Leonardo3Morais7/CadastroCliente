@@ -18,9 +18,13 @@
 x64/
 x86/
 bld/
-[Bb]in/
 [Oo]bj/
 [Ll]og/
+
+# bin folder content
+CadastroClientes/CadastroClientes/bin/*.dll
+CadastroClientes/CadastroClientes/bin/*.xml
+CadastroClientes/CadastroClientes/bin/*.config
 
 # Visual Studio 2015 cache/options directory
 .vs/
